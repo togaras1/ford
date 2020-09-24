@@ -7,3 +7,6 @@ This model have many styles (e.g. converible, coupe, sedan, truck)
 Now a day, Base wheels to custom to HotRod.  
 
 ## VGG by PyTorch
+
+the task is classification of Ford vehicles and Ferrari vehicles.  
+such as Ford GT, Ford Mustang, Ferrari 250GTO, Ferrari 250GT.
