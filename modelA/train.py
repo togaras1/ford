@@ -144,3 +144,4 @@ if __name__ == '__main__':
     plt.legend()
     plt.savefig('result/fvf_acc.png')
     plt.close()
+    torch.save(net, "model.pt")
