@@ -11,7 +11,8 @@ Now a day, Base wheels to custom to HotRod.
 the task is classification of Ford vehicles and Ferrari vehicles.  
 such as Ford GT, Ford Mustang, Ferrari 250GTO, Ferrari 250GT.
 
-It tending to overfitting.
-Not good at.
+It tending to overfitting.  
+Should be less learning rate.  
+
 ![accuracy](https://github.com/togaras1/ford/blob/master/modelA/result/fvf_acc.png)
 ![loss](https://github.com/togaras1/ford/blob/master/modelA/result/fvf_loss.png)
